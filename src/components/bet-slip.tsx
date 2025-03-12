@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { BetSlip as BetSlipType, Bet } from "@/types";
+import { BetSlip as BetSlipType } from "@/types";
 import {
   Sheet,
   SheetContent,
