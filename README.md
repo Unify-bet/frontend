@@ -8,6 +8,9 @@
 
 Unify.bet is a decentralized sports betting platform built on blockchain technology. It provides a trustless, transparent, and secure environment for users to place bets on various sporting events without intermediaries. By leveraging blockchain technology, Unify.bet eliminates the need for traditional bookmakers while ensuring fair odds, instant settlements, and complete ownership of funds.
 
+## Our GitBook
+https://ethexfi.gitbook.io/unifybet
+
 ## Key Features
 
 - **Decentralized Betting:** Place bets directly from your crypto wallet without intermediaries
@@ -85,14 +88,6 @@ Unify.bet is a decentralized sports betting platform built on blockchain technol
 2. View active, settled, and pending bets
 3. Track your betting history and performance
 
-## Roadmap
-
-- **Q3 2024:** Launch additional sports and betting markets
-- **Q4 2024:** Implement peer-to-peer betting functionality
-- **Q1 2025:** Introduce staking and liquidity provision for the protocol token
-- **Q2 2025:** Mobile app release for iOS and Android
-- **Q3 2025:** Integration with additional blockchains and Layer 2 solutions
-
 ## Contributing
 
 We welcome contributions to Unify.bet! Please feel free to submit issues, pull requests, or reach out with suggestions.
@@ -100,10 +95,3 @@ We welcome contributions to Unify.bet! Please feel free to submit issues, pull r
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-- Website: [unify.bet](https://unify.bet)
-- Twitter: [@unifybet](https://twitter.com/unifybet)
-- Discord: [Unify.bet Community](https://discord.gg/unifybet)
-- Email: team@unify.bet 
